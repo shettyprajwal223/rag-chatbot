@@ -16,27 +16,27 @@ Features:
 Architecture (Text Diagram):
 Docs (PDF/TXT)
 
-   │
+
    ▼
    
 Ingestion (split + embeddings with Mistral)
    
-   │
+  
    ▼
    
 Vector DB (ChromaDB)
    
-   │
+   
    ▼
    
 Retrieval (top-k chunks)
    
-   │
+   
    ▼
    
 Generation (Ollama + Mistral LLM)
    
-   │
+   
    ▼
    
 Answer + Citations
